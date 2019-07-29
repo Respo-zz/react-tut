@@ -13,9 +13,10 @@ class Login extends React.Component {
 
     clickHandler(){
         this.setState(
-            (logged => {
-                this.state.isLoggedIn = !this.state.isLoggedIn
-                return(logged)
+            (prevState => {
+                return {
+                  isLoggedIn : !prevState.isLoggedIn
+                }
             })
         )
     }

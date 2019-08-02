@@ -1,14 +1,21 @@
 import React from 'react';
 import JokesData from "./data/JokesData";
 
-const JokeComponents = JokesData.map(joke => {
-  return (
-    <Joke key={joke.id} fulljoke={joke} />
-  )
+class Joke extends React.Component {
+  render () {
+    const JokeComponents = JokesData.map(joke => {
+      return (
+        <JokeList key={joke.id} fulljoke={joke} />
+      )
 
-})
+    })
+    return (
+      <div>{JokeComponents}</div>
+    )
+  }
+}
 
-function Joke(props) {
+function JokeList(props) {
     return (
         <div>
             <h3 style={{display: !props.fulljoke.question && "none"}}>Question: {props.fulljoke.question}</h3>
@@ -18,4 +25,4 @@ function Joke(props) {
     );
 }
 
-export {Joke, JokeComponents};
+export {Joke, JokeList};

@@ -55,7 +55,12 @@ class ToDo extends React.Component {
     })
 
         return (
-                <div>{TodoComponents}</div>
+          <div>
+          <motion.div
+            animate={{ scale: 2 }}
+            transition={{ duration: 0.5 }}
+          />
+          {TodoComponents}</div>
         )
     }
 }

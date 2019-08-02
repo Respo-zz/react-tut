@@ -6,6 +6,7 @@ import Login from "./Login"
 import ApiCall from "./ApiCall"
 import Form from "./Form"
 import ToDo from "./Todo"
+import {Joke, JokeList} from "./Joke"
 
 class Header extends React.Component {
   render(){
@@ -13,10 +14,11 @@ class Header extends React.Component {
     <Router>
     <nav>
       <ul>
-        <li> <Link to="/">ToDo</Link> </li>
-        <li> <Link to="/counter">Counter</Link> </li>
-        <li> <Link to="/apicall">Api Call</Link> </li>
-        <li> <Link to="/form">Form</Link> </li>
+        <li> <Link onlyActiveOnIndex className='menu-item' activeClassName='menu-item-active' to="/">ToDo</Link> </li>
+        <li> <Link className='menu-item' activeClassName='menu-item-active' to="/counter">Counter</Link> </li>
+        <li> <Link className='menu-item' activeClassName='menu-item-active' to="/apicall">Api Call</Link> </li>
+        <li> <Link className='menu-item' activeClassName='menu-item-active' to="/form">Form</Link> </li>
+        <li> <Link className='menu-item' activeClassName='menu-item-active' to="/jokes">Jokes</Link></li>
       </ul>
     </nav>
 
@@ -26,6 +28,8 @@ class Header extends React.Component {
       <Route path="/counter/" component={Counter} />
       <Route path="/apicall/" component={ApiCall} />
       <Route path="/form/" component={Form} />
+      <Route path="/jokes/" component={Joke} />
+
       </div>
     </div>
     </Router>

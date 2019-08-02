@@ -1,0 +1,33 @@
+nav {
+  width: 100%;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+nav ul > li {
+  font-weight: 800;
+  padding: 20px;
+
+}
+
+.menu-item {
+ color: blue;
+ text-decoration: none;
+}
+
+.menu-item:active {
+  color:red;
+}
+
+.menu-item:hover {
+  border-bottom: 2px solid blue;
+}
+
+
+.menu-item-active {
+  color:red;
+}

@@ -1,5 +1,6 @@
 body {
     background-color: whitesmoke;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .container {
@@ -32,7 +33,6 @@ body {
     align-items: center;
     width: 70%;
     border-bottom: 1px solid #cecece;
-    font-family: Roboto, sans-serif;
     font-weight: 800;
     font-size: 16px;
     color: #333333;
@@ -44,7 +44,6 @@ body {
     align-items: center;
     width: 70%;
     border-bottom: 1px solid #cecece;
-    font-family: Roboto, sans-serif;
     font-weight: 800;
     font-size: 16px;
     font-style: italic;

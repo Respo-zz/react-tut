@@ -1,16 +1,19 @@
 import React from 'react';
 import './style/Main.css';
 
+import { motion } from "framer-motion"
+
+import MyComponent from "./motion.js"
+
+
 //import {Joke, JokeComponents} from "./Joke";
 
 //Import Data
 import TodosData from "./data/todosData";
 import TodoList from "./TodoList";
 
-import Counter from "./Counter"
-import Login from "./Login"
 
-class Main extends React.Component {
+class ToDo extends React.Component {
   constructor() {
     super()
     this.state = {
@@ -52,24 +55,11 @@ class Main extends React.Component {
     })
 
         return (
-          <div className="container">
-            <div className="component-box">
-                {TodoComponents}
-            </div>
-            {this.state.isLoading ? <p>loading...</p> :
-            <div className="component-box">
-              <Counter />
-            </div>}
-            <div className="component-box">
-            <Login />
-            </div>
-          </div>
-
-
+                <div>{TodoComponents}</div>
         )
     }
 }
 
 
 
-export default Main;
+export default ToDo;

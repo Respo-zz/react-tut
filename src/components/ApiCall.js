@@ -17,7 +17,7 @@ class ApiCall extends React.Component {
     fetch ("https://swapi.co/api/starships/9")
       .then (response => response.json())
       .then (data => {
-        this.setState ({
+        this.setState ({ 
               loading : false,
               ship : data
             })
@@ -26,11 +26,14 @@ class ApiCall extends React.Component {
   }
 
   render(){
+    let visits = this.state.ship;
     const text = this.state.loading ? "loading" : this.state.ship.name
     return (
       <div>
       <h1>{text}</h1>
-      <ul></ul>
+      <ul>
+        {Object.keys(visits).map((visit, index) => <li key={index}>{visit} : {visits[visit]}</li>)}
+      </ul>
       </div>
 
     )

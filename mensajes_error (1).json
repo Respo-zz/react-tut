@@ -1,0 +1,5009 @@
+{
+    "message_catalog":[
+    
+    {
+        "messageid":"501001",
+        "messagebody":"Debe ingresar un teléfono celular.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501002",
+        "messagebody":"El teléfono celular ingresado no es válido.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501003",
+        "messagebody":"Formato de mail incorrecto.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501004",
+        "messagebody":"El mail ingresado no coincide.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501005",
+        "messagebody":"Debe ingresar mail.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501006",
+        "messagebody":"Debe reingresar mail.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501007",
+        "messagebody":"El Rut ingresado no es válido.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501008",
+        "messagebody":"Debe ingresar Rut",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501009",
+        "messagebody":"Debe ingresar Clave",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501010",
+        "messagebody":"Las claves ingresadas no coinciden",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501011",
+        "messagebody":"Tecla mayúsculas activada",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501012",
+        "messagebody":"Debe seleccionar al menos una empresa.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501013",
+        "messagebody":"Para agregar una cuenta a la Empresa, debe tener al menos una seleccionada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501014",
+        "messagebody":"Estimado Cliente, en estos momentos está pagina no se encuentra disponible. Lamentamos los inconvenientes que esto pueda ocasionarle. Por favor, intente más tarde o comuníquese con nuestros ejecutivos al 600 637 3838. [Error = 500]",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501015",
+        "messagebody":"La clave no cumple las políticas de seguridad.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501016",
+        "messagebody":"Estimado Cliente, en estos momentos no podemos atenderlo. Por favor, intente más tarde o comuníquese con nuestros ejecutivos al 600 637 3838. [Error = 404]",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501017",
+        "messagebody":"Estimado Cliente, en estos momentos no podemos atenderlo. Por favor, intente más tarde o comuníquese con nuestros ejecutivos al 600 637 3838. [Error = El Error no se encuentra catalogado]",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501018",
+        "messagebody":"La clave es inválida.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501019",
+        "messagebody":"Estimado Cliente, la operación no fue completada.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501020",
+        "messagebody":"El Rut ingresado no fue encontrado en nuestros registros.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501021",
+        "messagebody":"Error al obtener la moneda de la cuenta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501022",
+        "messagebody":"Debe Ingresar Clave",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501023",
+        "messagebody":"Clave Incompleta",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501024",
+        "messagebody":"Los datos ingresados no son correctos. Recuerde que al tercer intento fallido su clave será bloqueada. Por favor intente nuevamente.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501025",
+        "messagebody":"País no puede superar los 35 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501026",
+        "messagebody":"El tipo de cuenta debe ser igual a la cuenta cargo",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501027",
+        "messagebody":"La moneda debe ser del mismo tipo que la cuenta Cargo",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501028",
+        "messagebody":"Código IBAN debe ser de 35 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501029",
+        "messagebody":"Código IBAN no válido",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501030",
+        "messagebody":"Código postal debe ser numérico",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501031",
+        "messagebody":"Código postal no puede superar los 10 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501032",
+        "messagebody":"Código no debe exceder los 11 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501033",
+        "messagebody":"La Serie Final no debe ser menor que la Serie Inicial.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501034",
+        "messagebody":"Cuenta entre bancos no puede superar los 30 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501035",
+        "messagebody":"Cuenta supera los 12 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501036",
+        "messagebody":"Debe ingresar país",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501037",
+        "messagebody":"Debe ingresar código ABA",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501038",
+        "messagebody":"Debe ingresar código IBAN",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501039",
+        "messagebody":"Debe ingresar un código",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501040",
+        "messagebody":"Debe ingresar cuenta intermediario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501041",
+        "messagebody":"Debe ingresar dirección de beneficiario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501042",
+        "messagebody":"Debe ingresar información para el beneficiario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501043",
+        "messagebody":"Debe ingresar nombre de institución",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501044",
+        "messagebody":"Debe ingresar referencia",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501045",
+        "messagebody":"Debe ingresar tasa interés",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501046",
+        "messagebody":"Debe ingresar un beneficiario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501047",
+        "messagebody":"Debe ingresar un destinatario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501048",
+        "messagebody":"Debe ingresar un monto",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501049",
+        "messagebody":"Debe ingresar un monto válido",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501050",
+        "messagebody":"Debe ingresar un RUT",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501051",
+        "messagebody":"Debe ingresar un RUT válido",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501052",
+        "messagebody":"Debe ingresar un tipo de cambio",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501053",
+        "messagebody":"Debe ingresar un tipo de cambio mayor que cero",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501054",
+        "messagebody":"Debe ingresar una cuenta",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501055",
+        "messagebody":"Debe ingresar una fecha de vencimiento",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501056",
+        "messagebody":"Debe ingresar valor numérico",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501057",
+        "messagebody":"Debe seleccionar tipo de instrucción",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501058",
+        "messagebody":"Destinatario no puede superar los 35 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501059",
+        "messagebody":"Dirección no puede superar los 80 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501060",
+        "messagebody":"El archivo seleccionado no cumple las póliticas de Upload (tamaño máximo 1 MB, puede contener virus o palabras inapropiadas)",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501061",
+        "messagebody":"El monto ingresado no debe superar las 15 cifras",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501062",
+        "messagebody":"El Tipo de Cambio no debe exceder las 15 cifras",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501063",
+        "messagebody":"El valor debe ser positivo",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501064",
+        "messagebody":"El valor debe tener solo un entero y dos decimales",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501065",
+        "messagebody":"Error al subir el archivo",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501066",
+        "messagebody":"Fecha de vencimiento debe ser mayor a la fecha de ejecución",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501067",
+        "messagebody":"Garantía de crédito no puede superar los 80 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501068",
+        "messagebody":"Los datos ingresados superan los 35 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501069",
+        "messagebody":"La referencia supera los 80 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501070",
+        "messagebody":"N° de cuenta no puede superar los 34 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501071",
+        "messagebody":"Nombre de institución no puede superar los 35 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501072",
+        "messagebody":"RUT no puede superar los 10 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501073",
+        "messagebody":"Se deben seleccionar todos los apoderados que autorizan el documento",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501074",
+        "messagebody":"Tasa de interés no debe superar dos enteros",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501075",
+        "messagebody":"El servicio no puede ser borrado ya que está siendo utilizado por un rol.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501076",
+        "messagebody":"No se puede enviar a autorizar. La aplicación debe tener por lo menos un servicio.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501077",
+        "messagebody":"No se puede enviar a autorizar. La aplicación debe tener por lo menos un atributo.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501078",
+        "messagebody":"No se puede enviar a autorizar. La aplicación debe tener por lo menos un rol.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501079",
+        "messagebody":"No se puede agregar el atributo INTERNO. La aplicación está siendo usada por empresas no internas.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501080",
+        "messagebody":"Debe seleccionar al menos una cuenta.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501081",
+        "messagebody":"Enviar a autorizar exitoso.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501082",
+        "messagebody":"Modificación exitosa, aplicacion en estado: Disponible.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501083",
+        "messagebody":"Modificación exitosa, aplicacion en estado: Creada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501084",
+        "messagebody":"Modificación exitosa, aplicacion en estado: En Proceso.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501085",
+        "messagebody":"Modificación exitosa, aplicacion en estado: Por Autorizar.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501086",
+        "messagebody":"Modificación exitosa, aplicacion en estado: Por Eliminar.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501087",
+        "messagebody":"Modificación exitosa, aplicacion en estado: Eliminada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501088",
+        "messagebody":"Modificación exitosa, aplicación Permanentemente Eliminada",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501089",
+        "messagebody":"No se puede enviar a autorizar la aplicación, pues el servicio no tiene subprocesos.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501090",
+        "messagebody":"Enviar a autorizar exitoso, la aplicación se encuentra en estado: En Proceso.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501091",
+        "messagebody":"Enviar a eliminar exitoso, la aplicación se encuentra en estado: Eliminada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501092",
+        "messagebody":"Rechazar eliminación exitosa, la aplicación se encuentra en estado: Rechazada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501093",
+        "messagebody":"Eliminar aplicación exitosa, la aplicación se encuentra Permanentemente Eliminada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501094",
+        "messagebody":"Rechazar aplicación exitosa, la aplicación se encuentra en estado: Rechazada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501095",
+        "messagebody":"Autorizar aplicación exitosa, la aplicación se encuentra en estado: Creada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501096",
+        "messagebody":"Empresa guardada existosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501097",
+        "messagebody":"Reactivación de empresa exitosa.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501098",
+        "messagebody":"Eliminación de empresa exitosa.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501099",
+        "messagebody":"Autorización de empresa exitosa.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501100",
+        "messagebody":"Rechazo de empresa exitoso.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501101",
+        "messagebody":"Atributo eliminado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501102",
+        "messagebody":"El atributo no puede ser borrado ya que esta siendo utilizado por una aplicación.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501103",
+        "messagebody":"Atributo creado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501104",
+        "messagebody":"No se puede agregar el atributo, porque ya existe uno con el mismo nombre.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501105",
+        "messagebody":"Atributo modificado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501106",
+        "messagebody":"¿Esta seguro que desea bloquear al usuario?",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501107",
+        "messagebody":"Empresa ya existe en la lista de empresas de este usuario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501108",
+        "messagebody":"Usuario creado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501109",
+        "messagebody":"Usuario modificado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501110",
+        "messagebody":"Eliminación de usuario exitosa.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501111",
+        "messagebody":"Enviar a eliminar exitoso.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501112",
+        "messagebody":"Reactivación de usuario exitosa.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501113",
+        "messagebody":"Debe seleccionar por lo menos un rol.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501114",
+        "messagebody":"El nombre del servicio ya existe.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501115",
+        "messagebody":"El código de nivel ingresado ya existe en el servicio.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501116",
+        "messagebody":"Falta nombre de la empresa.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501117",
+        "messagebody":"Debe seleccionar por lo menos una aplicación.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501118",
+        "messagebody":"No se puede cambiar el tipo de servicio. El subproceso ya está siendo utilizado por otro proceso.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501119",
+        "messagebody":"El nombre del rol ya existe.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501120",
+        "messagebody":"No se puede crear el rol, debe tener por lo menos un servicio.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501121",
+        "messagebody":"No existe aplicación en el estado",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501122",
+        "messagebody":"No existe empresa en el estado",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501123",
+        "messagebody":"No puede crear la empresa pues ya existe una con ese rut. Puede editar la empresa existente haciendo clic en Editar empresa.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501124",
+        "messagebody":"No existe empresa enrolada con este rut.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501125",
+        "messagebody":"No existe usuario en el estado",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501126",
+        "messagebody":"No puede crear un nuevo usuario pues ya existe uno con ese rut. Puede editar el usuario existente haciendo clic en Editar usuario.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501127",
+        "messagebody":"El rut ingresado no se encuentra en nuestros registros. Por favor revise si ingresó el rut correctamente",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501128",
+        "messagebody":"Falta agregar empresa al usuario.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501129",
+        "messagebody":"Falta nombre del usuario.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501130",
+        "messagebody":"Falta agregar aplicación al usuario.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501131",
+        "messagebody":"Falta agregar roles.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501132",
+        "messagebody":"Empresa no encontrada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501133",
+        "messagebody":"Estimado Cliente, No podemos realizar el proceso, la información no está disponible.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501134",
+        "messagebody":"Debe seleccionar al menos una línea.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501135",
+        "messagebody":"Debe ingresar todas las coordenadas solicitadas de su Digicard.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501136",
+        "messagebody":"Debe ingresar todos los dígitos de su Digipass.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501137",
+        "messagebody":"Estimado Cliente, la operación fue completada con éxito.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501138",
+        "messagebody":"Debe ingresar un teléfono fijo.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501139",
+        "messagebody":"Debe ingresar región.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501140",
+        "messagebody":"Debe ingresar ciudad.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501141",
+        "messagebody":"Debe ingresar comuna.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501142",
+        "messagebody":"Cuenta supera los 30 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501143",
+        "messagebody":"Código IBAN no cumple el mínimo de 28 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501144",
+        "messagebody":"Estimado Cliente: Según nuestros registros su dispositivo se encuentra bloqueado. Para obtener mayor información, comuníquese con nuestro Servicio a Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501145",
+        "messagebody":"Ingrese solo letras y/o números sin espacios",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501146",
+        "messagebody":"Los datos ingresados son incorrectos, corríjalos e intente nuevamente",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501147",
+        "messagebody":"El monto no debe exceder los US$10.000",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501148",
+        "messagebody":"Estimado Cliente, recuerde revisar las cartas inscritas para evitar duplicidades",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501149",
+        "messagebody":"Debe ingresar Glosa",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501150",
+        "messagebody":"Glosa no puede superar los 1200 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501151",
+        "messagebody":"Debe ingresar dirección de banco intermediario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501152",
+        "messagebody":"Cuenta cerrada, bloqueada o no corresponde al RUT",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501153",
+        "messagebody":"Debe ingresar dirección.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501154",
+        "messagebody":"La información ingresada contiene palabras inapropiadas. Modifique la información para continuar.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501155",
+        "messagebody":"La fecha \"Desde\" no puede ser mayor a la fecha \"Hasta\".",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501156",
+        "messagebody":"El rango de consulta no puede ser superior a un año.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501157",
+        "messagebody":"Según nuestros registros Ud. no dispone de un dispositivo de seguridad para realizar este proceso. Para obtener mayor información comuníquese con nuestro Servicio a Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501158",
+        "messagebody":"Su clave ha sido modificada exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501159",
+        "messagebody":"Según nuestros registros su dispositivo de seguridad se encuentra bloqueado. Para desbloquearlo comuníquese con nuestro Servicio a Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501160",
+        "messagebody":"Su dispositivo ha sido activado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501161",
+        "messagebody":"Este servicio está temporalmente no disponible, por favor intente más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501162",
+        "messagebody":"Cada Aplicación debe tener al menos una cuenta seleccionada",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501163",
+        "messagebody":"¿Está seguro que desea continuar? Si presiona \"Aceptar\", perderá lo realizado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501164",
+        "messagebody":"Usuario ya tiene otra versión en proceso, edite esta última.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501165",
+        "messagebody":"Empresa ya tiene otra versión en proceso, edite esta última.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501166",
+        "messagebody":"No se puede completar el cambio de estado, la fecha de ejecución es mayor a la fecha actual",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501167",
+        "messagebody":"Campo no debe superar los 5 enteros y 4 decimales",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501168",
+        "messagebody":"Debe ingresar un comentario de ejecución parcial",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501169",
+        "messagebody":"Los comentarios han sido omitidos por contener palabras inapropiadas",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501170",
+        "messagebody":"Usted no tiene permisos para realizar esta consulta",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501171",
+        "messagebody":"Debe ingresar Paridad",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501172",
+        "messagebody":"Debe ingresar valor mayor que cero",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501173",
+        "messagebody":"No existe Información para la consulta solicitada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501174",
+        "messagebody":"Debe seleccionar al menos {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501175",
+        "messagebody":"Monedas entre cuentas son distintas",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501176",
+        "messagebody":"Ha superado el limite permitido de {0} {1}. Debe desmarcar {2} {1} para poder continuar.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501177",
+        "messagebody":"El formato de archivo seleccionado no está permitido, seleccione un archivo en formato {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501178",
+        "messagebody":"El tamaño del archivo excede el máximo, seleccione un archivo hasta {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501179",
+        "messagebody":"La resolución del archivo es {0}, seleccione una imagen de {1}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501180",
+        "messagebody":"En este momento no es posible eliminar su imagen de Perfil. Por favor intente más tarde",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501181",
+        "messagebody":"Debe ingresar antecedentes para la aclaración.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501182",
+        "messagebody":"En este momento no está disponible la información de su Ejecutivo de Cuenta. Por favor intente más tarde.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501183",
+        "messagebody":"No existe Información para la consulta solicitada.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501184",
+        "messagebody":"{0} no disponible.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501185",
+        "messagebody":"Encuesta realizada con éxito. Muchas Gracias por su tiempo. La sesión se cerrará en unos segundos más.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501186",
+        "messagebody":"Monto no debe superar 12 enteros y 2 decimales.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501187",
+        "messagebody":"Ud. está a punto de cambiar el estado de esta encuesta. ¿Está seguro que desea realizar esta operación?",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501188",
+        "messagebody":"Largo máximo de 29 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501189",
+        "messagebody":"Debe ingresar un Destino de los Fondos",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501190",
+        "messagebody":"Esta operación requiere información adicional, por favor contacte a su Ejecutivo.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501191",
+        "messagebody":"Debe ingresar un alias",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501192",
+        "messagebody":"El nombre de la plantilla favorita ya existe",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501193",
+        "messagebody":"Alias no puede superar los 30 caracteres",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501194",
+        "messagebody":"Monto excede Cupo Total",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501195",
+        "messagebody":"Debes ingresar Clave",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501196",
+        "messagebody":"Debes ingresar Rut",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501197",
+        "messagebody":"El Rut ingresado no es válido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501198",
+        "messagebody":"Este servicio está temporalmente no disponible, por favor intenta más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501199",
+        "messagebody":"Estimado Cliente: Según nuestros registros, no dispones de un dispositivo de seguridad para realizar este proceso. Para obtener más información comunícate con nuestro Servicio a Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501200",
+        "messagebody":"Tu clave ha sido {0} exitosamente. Para ingresar al portal presiona el botón \"Continuar\".",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501201",
+        "messagebody":"La clave no cumple las políticas de seguridad.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501202",
+        "messagebody":"Las claves ingresadas no coinciden",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501203",
+        "messagebody":"Los datos ingresados no son correctos. Recuerda que al tercer intento fallido tu clave será bloqueada. Por favor intenta nuevamente.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501204",
+        "messagebody":"Su clave ha sido modificada exitosamente",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501205",
+        "messagebody":"Debes ingresar antecedentes para la aclaración",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501206",
+        "messagebody":"La Fecha \"Desde\" no puede ser mayor a la fecha \"Hasta\"",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501207",
+        "messagebody":"No existe información para la consulta solicitada",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501208",
+        "messagebody":"Debes ingresar {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501209",
+        "messagebody":"El valor de la propiedad debe ser un monto dentro del rango indicado en el ejemplo",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501210",
+        "messagebody":"El valor del pie no puede ser igual o mayor al valor de la propiedad",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501211",
+        "messagebody":"Formato {0} incorrecto.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501212",
+        "messagebody":"Debe ingresar {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501213",
+        "messagebody":"Estimado Cliente, no existen beneficiarios para los criterios seleccionados en la Agenda.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501214",
+        "messagebody":"No se pudo eliminar tu imagen de perfil, por favor intenta más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501507",
+        "messagebody":"No es posible ingresar caracteres especiales",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501215",
+        "messagebody":"Debes confirmar {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501216",
+        "messagebody":"No existen datos para los criterios de búsqueda seleccionados.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501217",
+        "messagebody":"Debes seleccionar {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501218",
+        "messagebody":"Debe seleccionar {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501219",
+        "messagebody":"El monto ingresado no puede superar el disponible para transferir.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501220",
+        "messagebody":"Monto debe ser mayor que cero.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501221",
+        "messagebody":"El formato de archivo seleccionado no está permitido, seleccione un archivo en formato {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501222",
+        "messagebody":"El proceso no fue completado. Por favor, intenta más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501223",
+        "messagebody":"El tamaño del archivo es demasiado pequeño, selecciona una imagen de mínimo 250 píxeles de ancho.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501224",
+        "messagebody":"El tamaño del archivo excede el máximo, selecciona un archivo hasta {0}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501225",
+        "messagebody":"La Fecha \"Inicio\" no puede ser mayor o igual a la fecha \"Termino\"",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501226",
+        "messagebody":"Estimado Cliente, la operación no fue completada. Los siguientes campos no pudieron ser actualizados:",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501227",
+        "messagebody":"La operación no fue completada. Los siguientes campos no pudieron ser actualizados:",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501228",
+        "messagebody":"Según nuestros registros no dispones de un dispositivo de seguridad para realizar este proceso. Para más información, comunícate con nuestro Servicio a Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501229",
+        "messagebody":"Según nuestros registros tu dispositivo de seguridad no se encuentra habilitado. Para más información, comunícate con nuestro Servicio a Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501230",
+        "messagebody":"Según nuestros registros tu dispositivo se encuentra bloqueado. Para más información, comunícate con nuestro Servicio a Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501231",
+        "messagebody":"Su dispositivo ha sido bloqueado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501232",
+        "messagebody":"Tu dispositivo ha sido bloqueado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501233",
+        "messagebody":"Actualmente no hay destinatarios en la agenda.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501234",
+        "messagebody":"No puede superar las 13 cifras.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501235",
+        "messagebody":"El bloqueo completo fue realizado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501236",
+        "messagebody":"El desbloqueo completo fue realizado exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501237",
+        "messagebody":"Se ha producido un error. Por favor, intente más tarde",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501238",
+        "messagebody":"Destinatario(s) no fueron agregado(s).",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501239",
+        "messagebody":"El formato del archivo no corresponde al definido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501240",
+        "messagebody":"El tamaño del archivo es superior al definido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501241",
+        "messagebody":"El bloqueo/desbloqueo parcial, fue realizado exitosamente",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501242",
+        "messagebody":"Debe seleccionar un Rol Base",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501243",
+        "messagebody":"No tiene un contrato con Tipo de Cambio o Paridad disponible. Intente más tarde",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501244",
+        "messagebody":"Estimado Cliente, su operación ha sido enviada a ejecución. Las comisiones de esta transacción serán cargadas a la cuenta indicada\".",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501245",
+        "messagebody":"Monto de Pago no debe exceder tu Cupo Utilizado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501246",
+        "messagebody":"Monto de Pago no debe exceder el cupo disponible de la cuenta de cargo seleccionada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501247",
+        "messagebody":"Ingresa Monto a Abonar.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501248",
+        "messagebody":"El número de cuenta no es válido.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501249",
+        "messagebody":"Monto para Avance debe ser minimo {1}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501250",
+        "messagebody":"Monto no debe exceder al Cupo Disponible para Avance.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501251",
+        "messagebody":"[0] no puede ser anterior a {1}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501252",
+        "messagebody":"Actualmente no existen transferencias en el periodo seleccionado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501253",
+        "messagebody":"Mail ya ingresado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501254",
+        "messagebody":"Monto fuera de rango permitido",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501255",
+        "messagebody":"Tus accesos directos fueron actualizados exitosamente.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501256",
+        "messagebody":"Estimado Cliente, la tarjeta seleccionada no cuenta con Cupo Internacional",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501257",
+        "messagebody":"Algunos de tus datos no fueron registrados. Intenta nuevamente dentro del portal. Para ingresar al portal presiona el botón \"Continuar\".",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501258",
+        "messagebody":"Clave incorrecta, intenta nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501259",
+        "messagebody":"La tarjeta seleccionada no puede realizar esta configuración ya que se encuentra Bloqueada",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501260",
+        "messagebody":"Debe confirmar nueva PinPass.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501261",
+        "messagebody":"Estimado Cliente, Según nuestros registros su dispositivo de seguridad no se encuentra habilitado. Para obtener mayor información, comuníquese con nuestro Servicio a Clientes.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501262",
+        "messagebody":"La solicitud de creación y cambio de su PinPass ha sido procesada exitosamente. Desde este momento ya puede realizar compras Nacionales e Internacionales.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501263",
+        "messagebody":"El tamaño del archivo supera Límite",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501264",
+        "messagebody":"No existen Beneficiarios en la Agenda",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501265",
+        "messagebody":"No se ha podido subir el archivo correctamente, inténtelo nuevamente",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501266",
+        "messagebody":"Estimado Cliente, Usted no tiene los permisos para visualizar esta página.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501267",
+        "messagebody":"Estimado Cliente, Usted no ha realizado ningún cambio en la Transferencia.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501268",
+        "messagebody":"Importante: Renovamos el contenido de la consulta de Depósitos vigentes para hacerlo más claro y completo. Revisa aquí la descripción de las principales columnas.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501269",
+        "messagebody":"Importante: Renovamos el contenido de tu Cartola Histórica para hacerlo más claro y completo. Revisa aquí la descripción de las principales columnas.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501270",
+        "messagebody":"En este momento no podemos atender tu solicitud, por favor intenta nuevamente. Si el problema persiste llama a Fonobank.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501271",
+        "messagebody":"En este momento no podemos atender su solicitud, por favor intente nuevamente. Si el problema persiste llame a Servicio al Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501272",
+        "messagebody":"Declaro (declaramos) que ustedes quedan exentos de toda responsabilidad con motivo del no pago solicitado, haciéndome (haciéndonos) responsable (es) de todo gasto, daño o perjuicio que ello les pueda ocasionar y me (nos) obligo (obligamos) a reintegrar a Uds. el importe total de cualquier pago que tenga que efectuar y daños o perjuicios que sufran, haciéndome (haciéndonos) cargo de cualquier reclamación que contra el Banco se dirija, con motivo del (de los) mencionado (s) cheque (s).",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501273",
+        "messagebody":"Declaro (declaramos) conocer el art.22 de la Ley de Cuentas Corrientes Bancarias y Cheques, el cual dispone que el que gira sin tener fondos disponibles de antemano, sobre cuenta cerrada o inexistente, o revocare el cheque por causas distintas a las señaladas en el art.26 de la citada ley, y no consignare fondos suficientes en el plazo legal, será sancionado con pena de presidio.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501274",
+        "messagebody":"Cupo solicitado no debe exceder el cupo disponible de la tarjeta de crédito seleccionada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501275",
+        "messagebody":"Cupo solicitado no debe ser menor o igual a cero.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501276",
+        "messagebody":"No existe {0} para {1}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501277",
+        "messagebody":"Cupo solicitado supera el rango permitido",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501278",
+        "messagebody":"No se encontraron beneficiarios para el criterio de búsqueda.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501279",
+        "messagebody":"Monto máximo de transferencias $ 5.000.000. Si necesita realizar una Transferencia de Fondos por un monto superior, utilice la opción Transferencia Altos Montos.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501280",
+        "messagebody":"Los datos del destinatario no se encuentran en la agenda",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501281",
+        "messagebody":"No se puede adjuntar este archivo, se ha superado el límite de adjuntos.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501282",
+        "messagebody":"El usuario no posee cuentas asociadas a esta operación",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501283",
+        "messagebody":"No se encontraron transferencias para el criterio de búsqueda",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501284",
+        "messagebody":"Estimado Cliente, Usted no tiene los permisos para ejecutar esta acción.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501285",
+        "messagebody":"No existen movimientos históricos para descargar en el período de consulta seleccionado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501286",
+        "messagebody":"Estimado Cliente, nombre de archivo supera el máximo.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501287",
+        "messagebody":"Monto de Pago no debe exceder al Cupo Utilizado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501288",
+        "messagebody":"Monto de Pago excede el cupo disponible de la cuenta de cargo seleccionada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501289",
+        "messagebody":"Ingrese Monto a Abonar",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501290",
+        "messagebody":"No existen mensajes asociados a esta transacción.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501291",
+        "messagebody":"Debes responder la pregunta de seguridad.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501292",
+        "messagebody":"Cliente debe ser mayor de {0} años para la Solicitud de Tarjeta.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501293",
+        "messagebody":"Renta Líquida Mensual no debe ser menor o igual a cero.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501294",
+        "messagebody":"Monto no debe exceder Cupo Total {0} de la Tarjeta Titular",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501295",
+        "messagebody":"Tus datos han sido guardados exitosamente. Para ingresar al portal presiona el botón \"continuar\".",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501296",
+        "messagebody":"Tu dispositivo ha sido activado exitosamente. Para ingresar al portal presiona el botón \"continuar\".",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501297",
+        "messagebody":"La fecha de vencimiento debe ser mayor a {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501298",
+        "messagebody":"Monto comisión debe ser máximo 12 enteros y 2 decimales.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501299",
+        "messagebody":"Observación no puede superar los 140 caracteres.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501300",
+        "messagebody":"Tasa Anual no debe superar 2 enteros y 5 decimales.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501301",
+        "messagebody":"Tasa de interés no debe superar 2 enteros y 5 decimales.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501302",
+        "messagebody":"Tus datos han sido guardados y tu dispositivo activado exitosamente. Para ingresar al portal presiona el botón \"continuar\".",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501303",
+        "messagebody":"No se puede realizar esta solicitud ya que la Tarjeta seleccionada se encuentra Bloqueada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501304",
+        "messagebody":"Las siguientes facultades son inválidas: {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501305",
+        "messagebody":"La secuencia de facultades {0} ya existe",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501306",
+        "messagebody":"Este servicio tiene asignado el máximo de secuencias de facultades configurables",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501307",
+        "messagebody":"Las siguientes facultades están duplicadas en el ingreso: {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501308",
+        "messagebody":"Estimado Cliente, el servicio no se encuentra disponible",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501309",
+        "messagebody":"El {0} ingresado es inválido",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501310",
+        "messagebody":"Estimado Cliente, la transacción seleccionada no puede ser reparada",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501311",
+        "messagebody":"Estimado Cliente, algunas de las transacciones seleccionadas no pueden ser reparadas. Intente nuevamente realizando otra selección.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501312",
+        "messagebody":"Tipo de Cuenta no válido",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501313",
+        "messagebody":"El identificador de cuenta no es válido. Ingrésalo nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501314",
+        "messagebody":"Debes asignarle un nombre a tu cuenta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501315",
+        "messagebody":"Debes ingresar múltiplos de $5.000",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501316",
+        "messagebody":"Saldo insuficiente.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501317",
+        "messagebody":"La clave debe tener 5 dígitos.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501318",
+        "messagebody":"La Tarjeta de Crédito no tiene Deuda Vigente.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501319",
+        "messagebody":"Monto debe ser mayor a {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501320",
+        "messagebody":"Cantidad de Cuotas fuera de rango {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501321",
+        "messagebody":"No tienes pagos registrados.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501322",
+        "messagebody":"No tienes cuentas inscritas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501323",
+        "messagebody":"En estos momentos no podemos atender tu solicitud, por favor intenta más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501324",
+        "messagebody":"Este mes de No Pago aplicará desde el próximo año.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501325",
+        "messagebody":"Sin datos a la fecha",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501326",
+        "messagebody":"Información no disponible",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501327",
+        "messagebody":"Actualmente no tienes saldos o productos de inversión contratados. Si quieres comenzar a invertir ingresa a Gestiones Frecuentes o directamente al Menú Inversiones.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501328",
+        "messagebody":"Actualmente no tienes saldo en la cuenta de inversión seleccionada. Para más información llama al 800 20 28 20 o escribe a banlinea@banchile.cl",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501329",
+        "messagebody":"Filtro no disponible.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501330",
+        "messagebody":"Monto de la Operación excede el Saldo de la Cuenta. La diferencia por {0} se cargará a la Línea de Crédito.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501331",
+        "messagebody":"Monto de la Operación excede el total disponible en la cuenta seleccionada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501332",
+        "messagebody":"El Precio Límite debe ser mayor a Precio de Mercado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501333",
+        "messagebody":"Digite nuevamente el precio límite. Difiere del precio de mercado en una cantidad mayor al 10%.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501334",
+        "messagebody":"Sin información",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501335",
+        "messagebody":"Número máximo de acciones a vender {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501336",
+        "messagebody":"{0} inválido",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501337",
+        "messagebody":"El Ingreso de {0} es obligatorio",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501338",
+        "messagebody":"La edad de ingreso máxima es de 79 años",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501339",
+        "messagebody":"Debe Aceptar {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501340",
+        "messagebody":"Monto debe ser mayor a precio de la acción.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501341",
+        "messagebody":"Debes leer y aceptar las condiciones",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501342",
+        "messagebody":"Debe leer y aceptar las condiciones",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501343",
+        "messagebody":"La fecha de inicio no puede ser menor a la de hoy",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501344",
+        "messagebody":"La fecha de inicio no puede ser superior a un año",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501345",
+        "messagebody":"La fecha de término no puede ser menor o igual a la fecha de inicio",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501346",
+        "messagebody":"La fecha de término no puede superar los {0} días desde la fecha de inicio",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501347",
+        "messagebody":"Ya tienes seleccionado un Cónyugue o Pareja relacionado al Titular",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501348",
+        "messagebody":"Fecha de nacimiento de hijo supera la edad permitida de contratación. Debes contratar otro seguro incorporándolo como asegurado viajero titular",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501349",
+        "messagebody":"La edad de ingreso máxima es de {0} años.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501350",
+        "messagebody":"Te falta(n)",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501351",
+        "messagebody":"Viajero(s) por agregar",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501352",
+        "messagebody":"Monto actualizado en base al resultado de acciones calculadas",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501353",
+        "messagebody":"La edad máxima de ingreso debe ser menor a {0} años",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501354",
+        "messagebody":"La edad mínima de ingreso debe ser mayor o igual a {0} años",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501355",
+        "messagebody":"Operación excede el monto máximo permitido",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501356",
+        "messagebody":"Estimado Cliente, Usted no ha realizado ningún cambio en la {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501357",
+        "messagebody":"Patente Inválida",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501358",
+        "messagebody":"El tipo de vehiculo no puede ser asegurado",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501359",
+        "messagebody":"El monto {0} es UF {1}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501360",
+        "messagebody":"Este Seguro no permite inmuebles con antigüedad mayor a {0} años y de construcción {1}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501361",
+        "messagebody":"El {0} no puede ser mayor a {1}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501362",
+        "messagebody":"Estas seguro de abandonar el proceso de Rescate del Depósito N° {0}? Para continuar presiona Aceptar. Para cancelar y volver al formulario de Rescate presiona Cancelar.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501363",
+        "messagebody":"El rescate de tu {0} N° {1} ha sido realizado con éxito.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501364",
+        "messagebody":"No dispone de Tarjeta(s) de Crédito para bloquear",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501365",
+        "messagebody":"No dispone de Tarjeta(s) para consultar",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501366",
+        "messagebody":"Rut posee preexistencias incompatibles con el tipo de seguro que se quiere contratar",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501367",
+        "messagebody":"Rut ya posee seguro Oncológico.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501368",
+        "messagebody":"Rut ya posee esta cobertura.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501369",
+        "messagebody":"El Asegurado Titular no puede ser {0} a {1} años",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501370",
+        "messagebody":"Rut ya fue ingresado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501371",
+        "messagebody":"El Cónyuge/Pareja o Conviviente Civil no puede ser {0} a {1} años",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501372",
+        "messagebody":"Se debe seleccionar a lo menos un asegurado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501373",
+        "messagebody":"Se debe seleccionar a lo menos una enfermedad.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501374",
+        "messagebody":"Se debe Seleccionar Monto de Renta",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501375",
+        "messagebody":"{0} no puede superar {1} dígitos enteros y {2} decimales.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501376",
+        "messagebody":"Monto no puede ser inferior al mínimo permitido.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501377",
+        "messagebody":"{0} fuera de rango permitido.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501378",
+        "messagebody":"Tu Dirección{0} ha sido actualizada con éxito.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501379",
+        "messagebody":"Tu inversión ha sido contratada con éxito.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501380",
+        "messagebody":"El plazo ingresado fue ajustado al primer día hábil siguiente a la fecha de vencimiento original. Para Depósitos a plazo fijo el vencimiento siempre debe corresponder a un día hábil bancario.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501381",
+        "messagebody":"Para asegurar a tu hijo mayor de {0} años, debes contratar otro seguro como titular.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501382",
+        "messagebody":"El Monto es Obligatorio",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501383",
+        "messagebody":"El Twitter es Obligatorio",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501384",
+        "messagebody":"Podrás {0} tu {1}, ingresando en menú Perfil y Configuraciones opción Datos Personales",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501385",
+        "messagebody":"Para recibir notificaciones por este canal, debes estar registrado en la app Mi Banco y tener activadas las notificaciones. El Servicio quedara disponible en 24 horas.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501386",
+        "messagebody":"A partir de {0}, las notificaciones por este canal tendrán un costo de $ {1} por cada mensaje recibido.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501387",
+        "messagebody":"Para recibir notificaciones por este canal, debes ingresar tu usuario y seguir la cuenta twitter del Banco {0}",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501388",
+        "messagebody":"No dispone de {0} para consultar",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501389",
+        "messagebody":"No registra Orden de No Pago",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501390",
+        "messagebody":"Estás a un paso de tener la experiencia de invertir con nosotros en Banchile Inversiones",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501391",
+        "messagebody":"Usted está a un paso de tener la experiencia de invertir con nosotros en Banchile Inversiones",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501392",
+        "messagebody":"Estás próximo a operar con este producto. Para hacerlo sigue los siguientes pasos en Banchile Inversiones",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501393",
+        "messagebody":"Usted está próximo a operar con este producto. Para hacerlo siga los siguientes pasos en Banchile Inversiones",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501394",
+        "messagebody":"Serás redireccionado al sitio banchileinversiones.cl",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501395",
+        "messagebody":"Será redireccionado al sitio banchileinversiones.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501396",
+        "messagebody":"Firma electrónicamente los contratos y documentación.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501397",
+        "messagebody":"Firme electrónicamente los contratos y documentación.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501398",
+        "messagebody":"Quedarás habilitado para operar y podrás regresar al sitio sin necesidad de autenticarte.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501399",
+        "messagebody":"Quedará habilitado para operar y podrá regresar al sitio sin necesidad de autenticarse.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501400",
+        "messagebody":"Actualmente no tienes una tarjeta adicional asociada a esta titular. Solicítala ahora y defínele un límite de gasto mensual",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501401",
+        "messagebody":"El identificador de cuenta no es válido. Ingréselo nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501402",
+        "messagebody":"Debe asignarle un nombre a su cuenta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501625",
+        "messagebody":"Esta cuenta ya se encuentra agregada, verifique la información e intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501403",
+        "messagebody":"Para actualizar el número de tu celular de seguridad registrado, puedes contactar a Banca Telefónica al {0} o directamente en el Mesón de Servicio Clientes de cualquier Sucursal Banco de Chile / Edwards.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501404",
+        "messagebody":"Elige el menú Información Personal, completa los datos y firma los documentos.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501405",
+        "messagebody":"Elija el menú Información Personal, complete los datos y firme los documentos.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501406",
+        "messagebody":"Para dar Orden de No Cargo debes tener al menos un pago anterior.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501407",
+        "messagebody":"La solicitud de {0} fue enviada exitosamente",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501408",
+        "messagebody":"Ingrese {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501409",
+        "messagebody":"Formato monto es 13 enteros y 2 decimales",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501410",
+        "messagebody":"Identificador ya existe",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501411",
+        "messagebody":"Seleccione {0}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501412",
+        "messagebody":"No se encontraron {0} con los parámetros ingresados",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501413",
+        "messagebody":"Presione configurar {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501414",
+        "messagebody":"El usuario está siendo modificado actualmente, intente más tarde",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501415",
+        "messagebody":"No se puede realizar esta acción en el usuario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501416",
+        "messagebody":"Por el momento no tiene habilitada esta opción. Si necesita realizar alguna inversión, le solicitamos acercarse a las oficinas de Banchile Inversiones ubicadas en nuestras sucursales de la red Banco de Chile.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501417",
+        "messagebody":"Sólo depósitos en Pesos pueden ser renovados por este canal. Para renovar depósitos en otras monedas comuníquese con su Ejecutivo de Cuenta.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501418",
+        "messagebody":"Este servicio ya registra una Suspensión",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501419",
+        "messagebody":"Este servicio ya registra una Orden de No Cargo",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501420",
+        "messagebody":"Para dar Suspensión al servicio debe registrar al menos un pago anterior",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501421",
+        "messagebody":"Ésta operación no está acogida a Plan Familia por lo que podría estar afecta a cobro de comisión.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501422",
+        "messagebody":"No es posible reinvertir en esta cuenta ya que mantiene beneficio tributario 57 bis. Te recordamos que conforme a la Ley 20.780, de 2014, sobre Reforma Tributaria, a contar del 1 de enero de 2017, se derogó el beneficio tributario establecido en el artículo 57 bis, por lo que no es posible efectuar nuevas inversiones acogidas a dicha norma. Por favor elige otra cuenta para realizar la reinversión.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501423",
+        "messagebody":"No puede asignar este tipo de aplicación al usuario",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501424",
+        "messagebody":"La selección realizada no es válida para este usuario, por favor verifique su solicitud",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501425",
+        "messagebody":"Una vez que el usuario sea desbloqueado, podrá acceder a la plataforma nuevamente",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501426",
+        "messagebody":"Una vez que el usuario es bloqueado, no podrá acceder a la plataforma hasta que sea desbloqueado. Cualquier proceso realizado por este usuario antes del bloqueo, seguirá su flujo correspondiente",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501427",
+        "messagebody":"Existen usuarios que no pudieron ser {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501428",
+        "messagebody":"Se han {0} satisfactoriamente los usuarios seleccionados",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501429",
+        "messagebody":"Usuario ya está {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501430",
+        "messagebody":"Se ha producido un error en el proceso. Por favor intenta más tarde",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501431",
+        "messagebody":"Error en la descarga, favor intente más tarde o comuníquese con Fonobank 600 637 3838.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501432",
+        "messagebody":"Navegador no compatible con la descarga. Intente con otro Navegador o comuníquese con Fonobank 600 637 3838.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501433",
+        "messagebody":"Para realizar giros mayor a {0} UF, favor {1} a {2} ejecutivo o {3} a Fonobank (600) 637 373",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501434",
+        "messagebody":"Esta configuración se aplicará a todos los tipos de operación de esta aplicación",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501435",
+        "messagebody":"Esta aplicación no requiere configurar Productos",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501436",
+        "messagebody":"Falta asignar apoderado(s)",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501437",
+        "messagebody":"Esta versión ha sido {0} satisfactoriamente",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501438",
+        "messagebody":"Las modificaciones realizadas han sido eliminadas, este usuario no aparecerá en listado de usuarios",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501439",
+        "messagebody":"Las modificaciones realizadas han sido eliminadas",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501440",
+        "messagebody":"El usuario ya se encuentra creado o en proceso de activación. Por favor, revise si ingresó el Rut correctamente o ingrese en Buscar para modificar este usuario.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501441",
+        "messagebody":"No es posible realizar la operación. Favor verificar el(los) número(s) identificador(es) o que la(s) cuenta(s) no se encuentre(n) inscrita(s).",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501442",
+        "messagebody":"Esta Cuenta ya está en listado de Cuentas por inscribir",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501443",
+        "messagebody":"Campo {0} debe tener como máximo {1} caracteres",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501444",
+        "messagebody":"La fecha de Vencimiento debe ser menor o igual a la Fecha de Pago",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501445",
+        "messagebody":"Se ha producido un error {0}. Por favor intenta más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501446",
+        "messagebody":"Debe activar al menos {0}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501447",
+        "messagebody":"Informamos que este crédito ya se encuentra cancelado.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501449",
+        "messagebody":"Referencia ingresada ya existe, ingrese una nueva referencia.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501450",
+        "messagebody":"Glosa ingresada ya existe, ingrese una nueva glosa.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501451",
+        "messagebody":"Rut ya es adicional de la tarjeta titular seleccionada o se encuentra en proceso",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501452",
+        "messagebody":"La renovación de tu Depósito N° {0} ha sido realizada con éxito.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501453",
+        "messagebody":"El Depósito N° {0} no puede ser renovado. Revisa las condiciones del depósito o llama a Fonobank.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501454",
+        "messagebody":"El nuevo monto a invertir es {0} al del depósito vencido. En el paso siguiente debes indicar una cuenta en la cual {1} la diferencia.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501455",
+        "messagebody":"Estimado Cliente, en este momento no podemos procesar su requerimiento, intente más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501456",
+        "messagebody":"Usuario no puede ser creado, se han asignado roles que requieren que el usuario sea apoderado de la empresa",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501457",
+        "messagebody":"La empresa del usuario fue modificada, intente más tarde",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501458",
+        "messagebody":"No es posible continuar con la operación. La fecha de pago de la nómina está fuera de plazo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501459",
+        "messagebody":"{0} excedido el monto máximo de ${1} definido para transferencias.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501460",
+        "messagebody":"Fecha de Embarque debe ser menor o igual a la Fecha de Vencimiento",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501461",
+        "messagebody":"Ingrese comentario",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501462",
+        "messagebody":"Ingrese número de días",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501463",
+        "messagebody":"Porcentaje de pago debe ser 100%",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501464",
+        "messagebody":"La permanencia de las cuotas rige a contar de la fecha de curse del aporte.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501465",
+        "messagebody":"Debe ser autorizado por otro administrador",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501466",
+        "messagebody":"Usted no puede procesar este {0}, está siendo procesado por un administrador {1}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501467",
+        "messagebody":"¿Guardar los Cambios ?",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501468",
+        "messagebody":"Eliminar Formato Seleccionado",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501469",
+        "messagebody":"Debe crear el formato con otro nombre",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501470",
+        "messagebody":"Debe Ingresar un nombre de Formato",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501471",
+        "messagebody":"Al salir de esta pantalla, perderá todas las modificaciones realizadas en el formato",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501472",
+        "messagebody":"Una vez eliminado el formato no podrá ser recuperado",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501473",
+        "messagebody":"Creación de Formato Exitoso",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501474",
+        "messagebody":"El formato está listo para ser utilizado",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501475",
+        "messagebody":"Formato Eliminado con Éxito",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501476",
+        "messagebody":"No se encontraron coincidencias con los filtros seleccionados.Por favor intente nuevamente",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501477",
+        "messagebody":"De acuerdo a los filtros seleccionados, no existen resultados de búsqueda. Por favor intente nuevamente",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501478",
+        "messagebody":"Modificación de Formato Exitoso",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501479",
+        "messagebody":"Debe ingresar un monto máximo mayor a cero",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501480",
+        "messagebody":"Estimado cliente, no hay comercios activos para consultar",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501481",
+        "messagebody":"El archivo ha sido cargado exitosamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501482",
+        "messagebody":"La búsqueda excede el numero de registros permitidos. Ingrese mas información",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501483",
+        "messagebody":"La búsqueda debe ser más específica, por favor ingrese más información.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501484",
+        "messagebody":"Ha ocurrido {0}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501485",
+        "messagebody":"Estamos trabajando para corregir {0}. Le recomendamos volver a cargar la página o salir del flujo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501486",
+        "messagebody":"Estimado Cliente, ingresar la clave de Portal Nueva Internet para continuar",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501487",
+        "messagebody":"Estimado Cliente, ingresar la clave de Banconexión para continuar",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501488",
+        "messagebody":"Estimado Cliente, no existe información para el periodo consultado",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501489",
+        "messagebody":"El Nombre de Formato ya existe",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501490",
+        "messagebody":"La solicitud tiene pago(s) efectuado(s), no es posible enviar a detener",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501493",
+        "messagebody":"El archivo no ha sido cargado correctamente. Revise los errores que se detallan a continuación. Si el problema persiste, asegúrese de que el formato del archivo corresponda al tipo de operación seleccionado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501495",
+        "messagebody":"Estimado Cliente: Actualmente su agenda contiene más de 500 beneficiarios. Para facilitar su administración, hemos incorporado nuevos filtros de búsqueda.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501496",
+        "messagebody":"Estimado Cliente: No se encuentran coincidencias para la búsqueda realizada. Por favor ingrese más información.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501497",
+        "messagebody":"Estimado Cliente: Se están mostrando los primeros 20 beneficiarios sobre la búsqueda realizada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501498",
+        "messagebody":"Esta vista filtra automáticamente los contactos favoritos de su agenda. Si usted aun no incorpora beneficiarios favoritos, presione la (",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501499",
+        "messagebody":") para seleccionarlos.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501500",
+        "messagebody":"Estimado Cliente: Actualmente su agenda contiene menos de 500 beneficiarios. Para facilitar su administración, hemos incorporado nuevos filtros de búsqueda.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501509",
+        "messagebody":"Nombre formato ya existe",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501502",
+        "messagebody":"El monto no puede exceder de $ {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501504",
+        "messagebody":"Error en el archivo de cargos",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501505",
+        "messagebody":"El proceso de validación encontró errores en el archivo. Por favor, corrija el archivo e intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501506",
+        "messagebody":"Estimado Cliente, no ha sido posible procesar el archivo. Por favor, intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501508",
+        "messagebody":"No es posible realizar la transacción, ya que no posee facultades para operar con la cuenta seleccionada",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501509",
+        "messagebody":"Nombre formato ya existe",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501511",
+        "messagebody":"De acuerdo a nuestros registros, no puede crear usuarios ya que la empresa seleccionada no posee aplicaciones contratadas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501518",
+        "messagebody":"Estimado Cliente: Lamentablemente no fue posible generar su clave. Por favor comuníquese con nuestro Servicio al Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501519",
+        "messagebody":"Para transferir entre sus cuentas del Banco {0}, {1} utilizar la opción Transferir entre Mis Cuentas",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501520",
+        "messagebody":"No existe medio de pago para continuar con la venta de {1} seguro.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501522",
+        "messagebody":"No fue posible realizar el cambio de clave.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501526",
+        "messagebody":"El monto total de los documentos debe coincidir con el monto del pago.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501512",
+        "messagebody":"Cifra no puede superar 13 dígitos enteros y 2 decimales.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501513",
+        "messagebody":"Monto de inversión debe ser igual o superior al mínimo permitido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501514",
+        "messagebody":"Plazo fuera de rango permitido",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501515",
+        "messagebody":"En este momento el valor de la UF no se encuentra disponible",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501516",
+        "messagebody":"En este momento el valor del dólar observado no se encuentra disponible",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501517",
+        "messagebody":"Para realizar depositos en USD debe tener una cuenta en esa moneda.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501527",
+        "messagebody":"Código DCV Comprador inválido",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501528",
+        "messagebody":"Código DCV Vendedor inválido",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501529",
+        "messagebody":"Los códigos DCV deben ser distintos",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501532",
+        "messagebody":"Los montos de las transacciones que están expresados en Dólares se aproximan a 2 decimales, por lo que podrían presentar pequeñas variaciones con el valor real.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501533",
+        "messagebody":"Código DCV inválido",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501534",
+        "messagebody":"Estimado Cliente, usted no dispone de una tarjeta de débito habilitada para efectuar esta transacción",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501535",
+        "messagebody":"Estimado Cliente, usted no se encuentra habilitado para operar con la cuenta seleccionada",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501536",
+        "messagebody":"Estimado Cliente actualmente usted no tiene depósitos vigentes para visualizar",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501537",
+        "messagebody":"Estimado Cliente, Usted no dispone de una cuenta habilitada para efectuar esta transacción",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501538",
+        "messagebody":"La empresa no tiene información para el período de consulta seleccionado. Por favor realice otra consulta.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501540",
+        "messagebody":"Formato Banconexión 2.0 no puede ser eliminado",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501541",
+        "messagebody":"Rut Empresas deben acceder por Banconexion 2.0",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501539",
+        "messagebody":"Utilice comas para montos con decimales.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501549",
+        "messagebody":"Estimado Cliente, le recordamos que el teléfono celular que ha modificado corresponde a un número exclusivamente de contacto. Si usted desea cambiar su teléfono de seguridad (registrado para recibir su clave dinámica o enrolar sus apps) debe acercarse a alguna de nuestras sucursales.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501551",
+        "messagebody":"{0} fecha del primer pago entre los días 01 al 26 del mes, para acceder a meses de no pago",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501552",
+        "messagebody":"Su Certificado Digital ha sido {0}.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501553",
+        "messagebody":"No fue posible {0} su Certificado Digital.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501554",
+        "messagebody":"La habilitación de Certificado Digital, requiere autorización del mismo Certificado Digital.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501555",
+        "messagebody":"La deshabilitación de Certificado Digital, requiere autorización del mismo Certificado Digital.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501556",
+        "messagebody":"Si no tiene su Certificado, debe operar llamando a Fonobank, al 600 6373838",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501557",
+        "messagebody":"Solicitar la {0} del Certificado generará una orden de trabajo y será contactado.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501558",
+        "messagebody":"Solicitar Certificado Digital generará una orden de trabajo y será contactado.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501559",
+        "messagebody":"Tenga presente antes de Revocar, que para deshabilitar el uso de Certificado Digital en la página, es necesario realizar la operación con el mismo Certificado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501560",
+        "messagebody":"Datos incompletos",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501561",
+        "messagebody":"Tenga presente antes de Revocar, que para deshabilitar el uso de Certificado Digital en la página, es necesario realizar la operación con el mismo Certificado.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501562",
+        "messagebody":"Por motivos de seguridad sus datos son extraidos desde “Mi Perfil”. Para poder continuar con el proceso, deberá completar su información de contacto.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501563",
+        "messagebody":"Su solicitud de {0} Certificado Digital ha sido ingresada con éxito.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501564",
+        "messagebody":"Su solicitud de {0} de Certificado Digital no se pudo realizar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501565",
+        "messagebody":"Se ha producido un error al realizar la solicitud de {0} del certificado. Por favor intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501570",
+        "messagebody":"Su solicitud de Certificado Digital no se pudo realizar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501571",
+        "messagebody":"Se ha producido un error al realizar la solicitud del certificado. Por favor intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501574",
+        "messagebody":"Sin Solicitudes de Crédito Hipotecario Según nuestros registros no dispone de solicitudes de crédito en proceso de curse. Por favor intente más tarde o comuníquese con su ejecutivo",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501575",
+        "messagebody":"Estimado Cliente en estos momentos no es posible procesar tu solicitud de inversión en Banco de Chile. Si necesitas más información favor comunícate con tu ejecutivo de cuentas.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501577",
+        "messagebody":"No se ha detectado el token de Certificado Digital. Por favor inserte su Dispositivo de firma Digital.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501578",
+        "messagebody":"No se ha detectado el token de Certificado Digital. Por favor revise que la aplicación de Certificado Digital se encuentre instalada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501581",
+        "messagebody":"No hay valor disponible para este segmento, monto, moneda, por favor comuníquese con su contraparte comercial.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501583",
+        "messagebody":"El rut del autorizador no corresponde al Certificado Digital que intenta utilizar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501584",
+        "messagebody":"Estimado cliente, según nuestros registros su certificado digital se encuentra expirado.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501566",
+        "messagebody":"Revise los datos ingresados o intente más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501580",
+        "messagebody":"Estimado cliente, según nuestros registros no dispones de un dispositivo de seguridad habilitado para realizar este proceso. Para más información, comunícate con nuestro Servicio a Cliente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501576",
+        "messagebody":"Estimado cliente, este servicio no está habilitado por el momento, favor dirígete a cualquiera de nuestras sucursales para obtener tu clave de internet.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501579",
+        "messagebody":"La clave debe tener mínimo 7 dígitos.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501582",
+        "messagebody":"Estimado Cliente, en estos momentos esta página no se encuentra disponible. Por favor, intente más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501594",
+        "messagebody":"Lo invitamos a contestar una breve encuesta de la aplicación MI PASS que nos ayudará a mejorar su experiencia de servicio.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501595",
+        "messagebody":"Gracias por su tiempo. Descargue Mi Pass y autorice transacciones de una forma fácil y segura.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501596",
+        "messagebody":"Encuesta realizada con éxito. Muchas gracias por su tiempo. La sesión se cerrará en unos segundos más.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501542",
+        "messagebody":"Cierre esta ventana y vuelva a intentar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501543",
+        "messagebody":"Se ha presentado un error en la {0} del grupo. Por favor intente más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501544",
+        "messagebody":"Para crear un grupo, ingrese al link \"Crear Grupo\"",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501545",
+        "messagebody":"Sólo puede modificar los grupos creados",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501546",
+        "messagebody":"Los elementos seleccionados han sido eliminados del listado",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501567",
+        "messagebody":"Las reglas indicadas a continuación serán eliminadas, revisar y confirmar la acción.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501568",
+        "messagebody":"Se ha presentado un error en la {0} de la regla. Por favor intente más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501530",
+        "messagebody":"Para que se efectúe la revocación de los apoderados seleccionados, debe realizar el envío de la solicitud generada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501531",
+        "messagebody":"No se encontraron apoderados para administrar.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501597",
+        "messagebody":"¿Está seguro de eliminar la notificación?",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501598",
+        "messagebody":"Notificación eliminada exitosamente",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501599",
+        "messagebody":"No fue posible eliminar la notificación, por favor intente nuevamente",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501600",
+        "messagebody":"No fue posible procesar lo solicitado, por favor intente nuevamente",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501601",
+        "messagebody":"Por el canal que {0} {1}.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501602",
+        "messagebody":"Este usuario y correo ya fueron ingresados",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501603",
+        "messagebody":"El servicio no tiene notificaciones creadas. Puede crear una notificación haciendo clic aquí o en “Crear nueva notificación”.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501604",
+        "messagebody":"Actualmente no tienes seguros contratados o pendientes de autorización. Contamos con una amplia gama para tus distintas necesidades.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501605",
+        "messagebody":"Actualmente no tienes créditos pendientes de aprobación. Simula y solicítalo en pocos clics.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501607",
+        "messagebody":"La imagen del mandato no se encuentra disponible.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501608",
+        "messagebody":"Por favor intente más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501610",
+        "messagebody":"La nueva clave debe ser distinta a las últimas 4 ya registradas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501611",
+        "messagebody":"Para contratar depósitos a plazo debes tener registrada una ficha de inversión, para lo cual dirígete a cualquiera de nuestras sucursales. Para consultas comunícate con Banca Telefónica al {0}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501612",
+        "messagebody":"El monto máximo por transferencia para {0} es de ${1}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501613",
+        "messagebody":"Recuerde que el monto diario en transferencias para {0} no puede superar los ${1}, si esto sucede no se ejecutará la transferencia programada.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501614",
+        "messagebody":"No existe información histórica para el período entre el {0} y {1}.Por favor realice una nueva consulta con otro período.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501585",
+        "messagebody":"La visualización y descarga de facturas solo está disponible para operaciones electrónicas.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501586",
+        "messagebody":"La imagen de la factura no se encuentra disponible.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501587",
+        "messagebody":"Error al {0}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501588",
+        "messagebody":"La fecha de vencimiento será ajustada al primer día hábil siguiente a la fecha de vencimiento solicitada. Para Factoring el vencimiento siempre debe corresponder a un día hábil bancario.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501589",
+        "messagebody":"Se ha asignado como fecha de vencimiento 30 días desde la carga a todas las facturas sin fecha de vencimiento. Para modificarla ingrese a Administración de Facturas.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501590",
+        "messagebody":"El plazo entre la fecha de emisión y vencimiento debe ser mayor o igual a {0} días",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501591",
+        "messagebody":"La diferencia entre la fecha de vencimiento y emisión puede ser máximo {0} días",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501593",
+        "messagebody":"{0} el Servicio por el cual {1} ser notificado.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501617",
+        "messagebody":"Los depositos a plazo contratados despues de las 14 horas apareceran en la Cartola Vigente el dia habil siguiente.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501618",
+        "messagebody":"Los depositos a plazo abonados en su cuenta corriente despues de las 14 horas apareceran en la Cartola Vigente al dia habil siguiente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501621",
+        "messagebody":"La renovación del período para Solicitar Clave de {0} usuarios, se ha completado exitosamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501622",
+        "messagebody":"La renovación del período para Solicitar Clave de {0} usuarios, no ha sido realizada exitosamente. Por favor inténtelo nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501623",
+        "messagebody":"Se ha producido un error en el envío de correo al Usuario y Administrador(es). Por favor presione el botón Refresh para enviarlo nuevamente y finalizar la creación del Usuario.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501626",
+        "messagebody":"Estimado Cliente, Usted no tiene {0} para la opción seleccionada, contáctese con su administrador.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501628",
+        "messagebody":"Verifique la extensión del archivo e intente nuevamente.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501629",
+        "messagebody":"El aporte supera el monto máximo diario",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501630",
+        "messagebody":"No ha sido posible {0}, por favor intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501631",
+        "messagebody":"La tarjeta seleccionada no posee movimientos.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501632",
+        "messagebody":"No es posible asignar este tipo de cuentas para esta operación.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501633",
+        "messagebody":"El RUT del beneficiario es inválido para cuenta cero.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501634",
+        "messagebody":"Esta cuenta ya fue ingresada anteriormente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501640",
+        "messagebody":"No es posible realizar la simulación. Simule con un monto más bajo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501641",
+        "messagebody":"No es posible realizar la operación. No registra chequeras activas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501642",
+        "messagebody":"Monto para avance, debe ser mínimo $ {0}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501645",
+        "messagebody":"No registra tarjetas activas para este servicio.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501650",
+        "messagebody":"Para vender Dólares o Euros, es necesario tener una cuenta corriente de la misma moneda.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501651",
+        "messagebody":"A través de esta opción es posible configurar cómo se realizará el pago de la Línea de Crédito seleccionada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501652",
+        "messagebody":"No se efectuarán pagos automáticos. Para pagar la línea de crédito se debe realizar el pago o abono de la deuda en el Menú Pago Línea de Crédito, por caja en sucursales o a través de Fonobank",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501653",
+        "messagebody":"Es posible configurar que los pagos a la deuda existente en la Línea de Crédito, se realicen con una frecuencia diaria o mensual. Sin perjuicio de lo anterior, igualmente es posible pagar o abonar a la deuda de la Línea de Crédito manualmente a través de Menú Pago Línea de Crédito, por caja en sucursales o a través de Fonobank.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501654",
+        "messagebody":"En caso que el cliente hubiere optado con anterioridad por alguna de las modalidades indicadas, dicha instrucción, en esta oportunidad es modificada al seleccionar una modalidad de pago distinta. En el evento de no haber optado por ninguna de las modalidades de pago antes señaladas, el pago de la línea de crédito será automático con los abonos que se hagan a la cuenta corriente respectiva, siempre y cuando no exista deuda vigente por créditos no estipulados, de conformidad a la Ley sobre Cuentas Corrientes Bancarias y Cheques.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501655",
+        "messagebody":"Debido al horario en que se ingresó la solicitud de modificación de la modalidad de pago, esta comenzará a regir desde el día hábil siguiente, considerando la frecuencia de pago escogida.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501656",
+        "messagebody":"Avances son transacciones de cargo inmediato, devengan interés informado en esta transacción desde que se efectúan, sea normal o en cuotas, con o sin periodo de gracia, está sujeto a comisión y afecto a impuesto al crédito. En el caso de avance en cuotas el monto de los intereses del periodo que no alcancen a ser pagados con el monto de las cuotas correspondientes, se capitalizaran en la respectiva fecha de vencimiento, lo que declara conocer y aceptar.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501657",
+        "messagebody":"Estimado Cliente, no ha sido posible {0} la operación, intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501658",
+        "messagebody":"Estimado Cliente, no ha sido posible procesar el {0}, intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501659",
+        "messagebody":"Para verificar que la operación ha sido efectuada, recuerde revisar en Consulta el estado de su {0}.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501660",
+        "messagebody":"El horario para realizar la operación es de {0} a {1} hrs",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501661",
+        "messagebody":"El monto de la operación supera el saldo disponible de la cuenta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501662",
+        "messagebody":"En estos momentos usted no tiene instrucciones por autorizar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501663",
+        "messagebody":"En estos momentos usted no tiene instrucciones por reparar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501664",
+        "messagebody":"La instrucción de {0} ha sido inscrita de forma exitosa.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501666",
+        "messagebody":"IMPORTANTE: A continuación podrás ver las alternativas de reprogramación de las próximas 3 cuotas de tu crédito de consumo. La reprogramación se realizará mediante un crédito de consumo, cuyo primer vencimiento será 30 días después del pago de la última cuota de tu crédito vigente. Podrás solicitar una reprogramación por cada crédito que tengas. En el evento que, por cualquier causa, a la fecha de vencimiento de una o más de las cuotas referidas, éstas se encontraren pagadas, el monto del crédito será aplicado al pago de la o las cuotas siguientes hasta completar el pago del número de cuotas que el cliente solicitó reprogramar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501667",
+        "messagebody":"IMPORTANTE: A continuación, podrás seleccionar el crédito a postergar. La postergación se realizará mediante un crédito de postergación, con un periodo de gracia de 180 días. Solo podrás postergar 6 dividendos de uno de tus créditos Hipotecarios, declarando a la fecha de la solicitud una disminución de tus ingresos de un 25% mensual con respecto al promedio del año 2020 o 2019.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501676",
+        "messagebody":"A este mail te enviaremos la confirmación de la contratación del crédito y los documentos que lo respaldan.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501668",
+        "messagebody":"A este mail te enviaremos la confirmación de la contratación del crédito, la hoja resumen, el contrato del crédito, y la copia del pagaré que documenta la operación",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501669",
+        "messagebody":"IMPORTANTE: Tu solicitud ha sido ingresada y se verá reflejada en un plazo máximo de 72 horas hábiles.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501670",
+        "messagebody":"Solicitud no ingresada,Si lo deseas inténtalo nuevamente",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501682",
+        "messagebody":"Este servicio no está disponible para Rut empresas. Intenta con un Rut persona",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501683",
+        "messagebody":"Lo sentimos, ya has ingresado el máximo de 2 agendamientos en una semana",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501684",
+        "messagebody":"Lo sentimos, no hay sucursales disponibles",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501685",
+        "messagebody":"El número ingresado no es válido",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501686",
+        "messagebody":"Este horario ya no está disponible",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501687",
+        "messagebody":"Lo sentimos, no tenemos horarios disponibles en el día que seleccionaste. Intenta otro día o en otra Sucursal",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501688",
+        "messagebody":"Toma las precauciones necesarias de seguridad. Debes asistir con tu mascarilla puesta, o no podrás ingresar a la Sucursal",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501689",
+        "messagebody":"Llega 10 minutos antes del horario asignado a la Sucursal",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501690",
+        "messagebody":"Debes dirigirte al inicio de la fila desplegada fuera de la Sucursal y ahí, contactar al Vigilante para ingresar con tu reserva",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501691",
+        "messagebody":"Lleva tu Carnet de Identidad, pues deberás presentarlo cuando informes que tienes una hora agendada.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501671",
+        "messagebody":"Ingresa número válido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501672",
+        "messagebody":"No tenemos registrado tu número de Celular de Seguridad.\n Por que nos preocupamos de tu seguridad, solo podrás registrarlo por primera vez en Banco en Línea. Como medida de Seguridad, este será actualizado al día hábil siguiente para que puedas recibir tu clave dinámica o enrolar tus aplicaciones móviles. Verifica el email que tienes inscrito (Perfil y Configuración), pues ahí te llegará el comprobante.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501673",
+        "messagebody":"Ingresa número de documento o serie válido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501677",
+        "messagebody":"La orden de pago al extranjero fue autorizada correctamente",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501704",
+        "messagebody":"Para verificar que la operación ha sido efectuada, revisa su estado en la Consulta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501713",
+        "messagebody":"La clave debe contener 4 dígitos",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501693",
+        "messagebody":"El rut o número de serie o número de documento ingresados no son válidos. Revisa que sean los correctos y reintenta",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501694",
+        "messagebody":"Ingresa fecha de nacimiento válida",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501695",
+        "messagebody":"Debes ingresar {0}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501696",
+        "messagebody":"Autorizo a Banco de Chile para usar, almacenar y tratar mis datos personales, con el objeto exclusivo de evaluar el otorgamiento de una o más productos indicados en la presente Solicitud de Portabilidad",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501697",
+        "messagebody":"No tienes registrado un número de celular/email/domicilio de contacto. Ingresa a \"Perfil y Configuración\" y completa dichos campos previo a realizar tu solicitud\"",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501698",
+        "messagebody":"Ya tienes una solicitud de portabilidad ingresada desde esa institución. Si deseas modificarla, contáctate directamente con el Ejecutivo asignado o llama a nuestra Banca Telefónica",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501699",
+        "messagebody":"Ingresa formato correcto",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501700",
+        "messagebody":"Debes agregar al menos un producto a cerrar en portador inicial y al menos un producto a contratar en Banco de Chile",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501701",
+        "messagebody":"Para poder evaluarte y entregarte una mejor oferta, necesitamos que nos envíes más información.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501702",
+        "messagebody":"Autorización exitosa",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501703",
+        "messagebody":"Debes ingresar solo una solicitud por cada proveedor inicial.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501705",
+        "messagebody":"Por medio de la presente solicitud, el cliente/solicitante otorga mandato a esta institución financiera para que en su nombre y representación, soliciten al proveedor inicial señalado en esta solicitud, el certificado de liquidación de deudas con el detalle de todos los productos que solicito portar, incluidas sus garantías, productos conexos o complementarios contratados con ellos y los respectivos certificados de pago de impuestos de timbres de estampillas y copia digital de la tasación y estudio de títulos en los casos que corresponda",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501706",
+        "messagebody":"Asumo el compromiso de no aumentar mi endeudamiento con la institución financiera de la cual me estoy portando durante el período que dure el proceso de portabilidad y, entiendo que, de hacerlo, el Banco podría retractarse de la oferta realizada",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501707",
+        "messagebody":"Tu solicitud de portabilidad ha sido rechazada Si tienes dudas, puedes llamar al 600 6373737",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501708",
+        "messagebody":"Tu solicitud de portabilidad ha sido recibida con éxito Tu número de seguimiento es: {0} Hemos enviado un comprobante al correo electrónico que has registrado. “Para poder evaluarte y entregarte una mejor oferta, necesitamos que nos envíes más información. Mientras más completa venga tu solicitud, mejor será la respuesta que podemos entregarte\"",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501709",
+        "messagebody":"Tu solicitud de portabilidad ha sido recibida con éxito Tu número de seguimiento es {0} Hemos enviado un comprobante al correo electrónico que has registrado. Prontamente te contactará un ejecutivo para continuar tu proceso de portabilidad",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501673",
+        "messagebody":"Ingresa número de documento o serie válido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501674",
+        "messagebody":"Tu celular de seguridad ha sido registrado correctamente. Recuerda que por prevención, este será actualizado al día hábil siguiente. En los próximos instantes, te llegará el comprobante al mail registrado en el Banco",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501675",
+        "messagebody":"El servicio presenta intermitencias. Por favor, intenta nuevamente. Si el problema persiste, llama al {0}.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501710",
+        "messagebody":"Atención. Has agotado el número de intentos de validación de datos. Vuelve a intentarlo en 72 horas",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501711",
+        "messagebody":"Atención No has contestado correctamente las preguntas de seguridad. Para continuar el proceso, puedes llamar al 600 637 3737 (Banco de Chile), 600 231 9999 (Banco Edwards), 600 638 3838 (Banco Credichile), contactar a tu Ejecutivo(a) o acudir al mesón de atención a clientes en cualquiera de nuestras sucursales.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501742",
+        "messagebody":"Hemos validado tu identidad correctamente. Presiona continuar para seguir con el último paso",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501726",
+        "messagebody":"La orden de pago que intenta ingresar está fuera de horario, si la autoriza será ejecutada el día hábil siguiente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501727",
+        "messagebody":"Esta orden de pago será ejecutada el día hábil siguiente, puede revisar su estado en la Consulta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501728",
+        "messagebody":"Tu solicitud de certificado de liquidación N° {0} presenta errores. Por favor, ingrésala nuevamente y la procesaremos a la brevedad. Lamentamos los inconvenientes ocasionados",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501729",
+        "messagebody":"Beneficiario ingresado exitosamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501730",
+        "messagebody":"{0} de {1} cuentas fueron {2} exitosamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501731",
+        "messagebody":"El beneficiario no pudo ser ingresado.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501732",
+        "messagebody":"Beneficiario editado exitosamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501733",
+        "messagebody":"La modificación del beneficiario no fue realizada.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501734",
+        "messagebody":"Cuenta eliminada exitosamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501735",
+        "messagebody":"La eliminación de la cuenta no fue realizada.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501739",
+        "messagebody":"No tiene divisas recibidas por abonar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501740",
+        "messagebody":"El abono o liquidación de estas divisas, se debe realizar antes de la fecha que aparece en columna Disponible Hasta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501741",
+        "messagebody":"Divisas por vencer, si no son abonadas serán devueltas al emisor.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501743",
+        "messagebody":"Su mandato ha sido {0} exitosamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501744",
+        "messagebody":"No ha sido posible {0} su mandato, intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501745",
+        "messagebody":"La solicitud de {0} ha sido autorizada correctamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501746",
+        "messagebody":"La solicitud de {0} ha sido autorizada correctamente y será procesada en las próximas horas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501747",
+        "messagebody":"Actualmente no tiene un tipo de cambio cerrado con el Banco.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501748",
+        "messagebody":"Las órdenes de pago autorizadas en este horario, son procesadas en las próximas horas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501749",
+        "messagebody":"Al anular el mandato, debes autorizar manualmente el abono de las órdenes de pago recibidas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501766",
+        "messagebody":"No {0} tarjetas habilitadas para configurar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501767",
+        "messagebody":"Para mayor información {0} a Fonobank ({1}).",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501790",
+        "messagebody":"Error al guardar la configuración. {0} nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501754",
+        "messagebody":"No tienes los permisos para visualizar esta página.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501818",
+        "messagebody":"En este horario solo es posible autorizar nóminas donde la moneda de destino es igual a la moneda de la cuenta de cargo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501819",
+        "messagebody":"No es posible autorizar nóminas con este método de pago en este horario.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501820",
+        "messagebody":"Las nóminas autorizadas en este horario, serán procesadas el día hábil siguiente, puede revisar su estado en la Consulta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501821",
+        "messagebody":"La nómina que intenta detener, no tiene operaciones que permitan realizar esta acción.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501822",
+        "messagebody":"La solicitud de detención ha sido enviada de forma exitosa para las operaciones que cumplen la condición.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501823",
+        "messagebody":"Recuerde revisar en Consulta el estado final de la operación, ya que esta solicitud no asegura la detención.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501824",
+        "messagebody":"Monto de la nómina supera el máximo permitido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501825",
+        "messagebody":"El monto permitido ya fue sobrepasado, podrá enviar una orden de pago el día hábil siguiente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501826",
+        "messagebody":"El monto permitido ya fue sobrepasado, podrá {0} una {1} el día hábil siguiente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501827",
+        "messagebody":"No es posible autorizar {0} porque superaría el monto máximo permitido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501828",
+        "messagebody":"El monto permitido ya fue sobrepasado, solo podrá enviar órdenes de pago con fecha programada.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501829",
+        "messagebody":"Esta nómina no podrá ser autorizada ya que el monto sobrepasa el máximo permitido, puede modificar el archivo y cargar nuevamente o eliminar registros en la siguiente pantalla.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501815",
+        "messagebody":"Acá podrás &lt;strong&gt;bloquear o desbloquear temporalmente tu tarjeta.&lt;/strong&gt; Esto afectará su uso de forma presencial, no presencial y en las billeteras digitales donde estén inscritas, incluyendo los servicios de compras por internet, {0} en cajeros automáticos y compras en comercios.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501816",
+        "messagebody":"Acá podrás &lt;strong&gt;bloquear o desbloquear temporalmente tu tarjeta.&lt;/strong&gt; Esta acción afectará los {0} en cajeros automáticos.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501817",
+        "messagebody":"Al confirmar un &lt;strong&gt;bloqueo permanente&lt;/strong&gt;, se&lt;/br&gt; generará una nueva tarjeta.&lt;/br&gt; &lt;/br&gt; Selecciona una sucursal para retirar tu nueva&lt;/br&gt; tarjeta, dentro de 48 hrs. hábiles en RM y 72&lt;/br&gt; horas hábiles en Regiones. &lt;strong&gt;IMPORTANTE: si tu tarjeta es adicional recuerda que el retiro lo debe hacer el titular de la tarjeta.&lt;/strong&gt;",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501831",
+        "messagebody":"&lt;h3 style='color:#1e851e;'&gt;Tarjeta bloqueada permanentemente, se generará una nueva tarjeta&lt;/h3&gt; &lt;strong&gt;IMPORTANTE: si tu tarjeta es adicional recuerda que el retiro de la nueva tarjeta lo debe hacer el titular en la sucursal {0}. &lt;/strong&gt; &lt;br/&gt;Ten presente que el plazo de entrega es de 48 horas hábiles (RM) y 72 horas hábiles (Regiones).&lt;br/&gt;En caso de robo, debes dejar una denuncia en Carabineros y en caso de extravío una constancia. Ambas dentro de un plazo de 5 días. Se ha enviado un comprobante al correo &lt;strong&gt;{1}.&lt;/strong&gt;",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501832",
+        "messagebody":"&lt;h2 style='color:#0b78d0;'&gt;Tarjeta bloqueada permanentemente&lt;/h2&gt; Tarjeta bloqueada el día &lt;strong&gt;{0}&lt;/strong&gt;",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501833",
+        "messagebody":"La tarjeta de {0} ****{1} se ha &lt;strong&gt;bloqueado&lt;/br&gt;temporalmente&lt;/strong&gt;. Se ha enviado un comprobante al&lt;/br&gt; correo {2}",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501834",
+        "messagebody":"La tarjeta de {0} ****{1} se ha &lt;strong&gt;desbloqueado con &lt;/br&gt;éxito&lt;/strong&gt;. Se ha enviado un comprobante al correo &lt;/br&gt;&lt;strong&gt;{2}&lt;/strong&gt;",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501859",
+        "messagebody":"&lt;h3 class='c-warning'&gt;Tarjeta bloqueada permanentemente, pero reemisión no disponible&lt;/h3&gt; &lt;strong&gt;IMPORTANTE: Para reemitir tu nueva tarjeta debes contactarte con nuestra Banca Telefónica al {0} &lt;/strong&gt; &lt;/br&gt; En caso de robo, debes dejar una denuncia en Carabineros y en caso de extravío una constancia. Ambas dentro de un plazo de 5 días. Se ha enviado un comprobante al correo {1}.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501861",
+        "messagebody":"La tarjeta de crédito {0} {1} ****{2} se ha &lt;strong&gt;bloqueado temporalmente&lt;/strong&gt;. Se ha enviado un comprobante al correo {3}",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501862",
+        "messagebody":"La tarjeta de {0} {1} {2} ****{3} se ha &lt;strong&gt;desbloqueado con éxito&lt;/strong&gt;. Se ha enviado un comprobante al correo &lt;strong&gt;{4}&lt;/strong&gt;",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501863",
+        "messagebody":"Se han {0} &lt;strong&gt;{1}&lt;/strong&gt; para la tarjeta de crédito {2} {3} ****{4}. Se ha enviado un comprobante al correo &lt;strong&gt;{5}&lt;/strong&gt;",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501678",
+        "messagebody":"Formato de {0} incorrecto o vacío.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501679",
+        "messagebody":"El archivo solo permite un tipo de moneda.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501680",
+        "messagebody":"Los campos Iban y número de cuenta son excluyentes.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501681",
+        "messagebody":"Estimado Cliente, no ha sido posible {0} la nómina, intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501692",
+        "messagebody":"Nómina posiblemente duplicada, revise nuevamente antes de autorizar.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501712",
+        "messagebody":"La solicitud de {0} ha sido enviada de forma exitosa.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501737",
+        "messagebody":"Estimado Cliente, la consulta contiene demasiados registros, seleccione un rango de fechas menor.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501738",
+        "messagebody":"Estimado Cliente, usted no tiene permisos para realizar esta operación.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501750",
+        "messagebody":"La nómina que intenta ingresar está fuera de horario, si la autoriza será ejecutada el día hábil siguiente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501751",
+        "messagebody":"Esta nómina será ejecutada el día hábil siguiente, puede revisar su estado en la Consulta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501752",
+        "messagebody":"En este momento no es posible enviar órdenes de pago al exterior.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501753",
+        "messagebody":"Estimado Cliente, no ha sido posible {0} la orden de pago, intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501755",
+        "messagebody":"Estimado Cliente, no se encontraron resultados con los criterios de búsqueda seleccionados.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501756",
+        "messagebody":"Estimado Cliente, actualmente no tiene órdenes de pago recibidas pendientes de abono.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501757",
+        "messagebody":"Estimado Cliente, existen órdenes de pago recibidas que serán devueltas al emisor en los próximos días.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501758",
+        "messagebody":"En este horario no es posible {0} órdenes de pago al exterior.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501759",
+        "messagebody":"No tiene saldo suficiente en la cuenta seleccionada.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501760",
+        "messagebody":"El horario para ingresar nóminas con órdenes de pago al exterior es de {0} a {1} hrs.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501768",
+        "messagebody":"En este horario solo es posible enviar nóminas donde la moneda de destino es igual a la moneda de la cuenta de cargo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501722",
+        "messagebody":"La solicitud de {0} ha sido enviada de forma exitosa.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501830",
+        "messagebody":"Monto supera el máximo permitido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501839",
+        "messagebody":"Recuerde que el Banco receptor podría realizar cobros al recibir divisas, por lo cual recomendamos advertir de esta situación al destinatario.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501840",
+        "messagebody":"Esta o estas órdenes de pago serán ejecutadas en la fecha del tipo de cambio seleccionado.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501841",
+        "messagebody":"La Orden de Pago Recibida ha sido autorizada de forma exitosa, puede revisar su estado en la Consulta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501842",
+        "messagebody":"No fue posible {0} la orden de pago, intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501843",
+        "messagebody":"No es posible liquidar esta orden de pago, por favor comuníquese con su Ejecutivo de Cuenta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501885",
+        "messagebody":"Tarjeta bloqueada con éxito. Se generó una nueva tarjeta con terminación{0}. Puedes consultarla ya en el home de Banco en Línea y operar con ella desde este momento. Si en el futuro necesitas imprimirla, podrás hacerlo en nuestras sucursales habilitadas. Consulta en portales.bancochile.cl/cuenta-fan Se ha enviado un comprobante a {1}",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501886",
+        "messagebody":"&lt;h2 class='c-warning'&gt;No encontramos sucursales con entrega inmediata &lt;/h2&gt; En este momento no hay sucursales disponibles para entrega inmediata en la comuna seleccionada. Puedes seleccionar una comuna diferente o revisar sucursales disponibles para entrega en 72 horas hábiles",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501887",
+        "messagebody":"&lt;h2 class='c-warning'&gt;No encontramos sucursales para la comuna seleccionada &lt;/h2&gt; Intenta seleccionando una comuna diferente o solo bloquea tu tarjeta para posteriormente crear una nueva en una sucursal disponible. Llama a nuestra Banca Telefónica al {0}",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501888",
+        "messagebody":"&lt;h3 style='color:#1e851e;'&gt;Tarjeta bloqueada permanentemente &lt;/h3&gt;&lt;strong&gt;IMPORTANTE: si tu tarjeta es adicional recuerda que el retiro lo debe hacer el titular de la tarjeta.&lt;/strong&gt; &lt;br/&gt;&lt;br/&gt;Para obtener tu nueva tarjeta, &lt;strong&gt;dirígete a cualquiera de las sucursales que enviamos a tu correo.&lt;/strong&gt;&lt;br/&gt;En caso de robo, debes dejar una denuncia en Carabineros y en caso de extravío una constancia. Ambas dentro de un plazo de 5 días. Se ha enviado un comprobante al correo &lt;strong&gt;{0}&lt;/strong&gt;",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501889",
+        "messagebody":"&lt;h2 class='c-warning'&gt;No encontramos sucursales con entrega en 72 horas &lt;/h2&gt; En este momento no hay sucursales disponibles para entrega en 72 horas hábiles en la comuna seleccionada. Puedes seleccionar una comuna diferente o revisar sucursales disponibles para entrega inmediata.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501890",
+        "messagebody":"&lt;h2 class='c-warning'&gt;No encontramos sucursales para la comuna seleccionada &lt;/h2&gt; Intenta seleccionando una comuna diferente.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501836",
+        "messagebody":"Las órdenes de pago autorizadas en este horario, serán procesadas el día hábil siguiente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501837",
+        "messagebody":"Le informamos que en este horario, solo puede abonar órdenes de pago a una cuenta con la misma moneda de origen.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501838",
+        "messagebody":"Las operaciones autorizadas en este horario, serán procesadas el día hábil siguiente, puede revisar su estado en la Consulta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501755",
+        "messagebody":"Estimado Cliente, no se encontraron resultados con los criterios de búsqueda seleccionados.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501756",
+        "messagebody":"Estimado Cliente, actualmente no tiene órdenes de pago recibidas pendientes de abono.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501845",
+        "messagebody":"La solicitud de {0} ha sido autorizada de forma exitosa, puede revisar su estado en la Consulta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501723",
+        "messagebody":"La solicitud de {0} no ha sido completada, intente nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501850",
+        "messagebody":"Orden de pago sin acciones en este canal.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501846",
+        "messagebody":"Una vez desbloqueada(s) tu(s) transferencia(s), no olvides realizar al menos una transferencia a terceros, para evitar un nuevo bloqueo",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501847",
+        "messagebody":"Desde aquí puedes desbloquear tu(s) cuenta(s) inactiva(s) para realizar transferencias a terceros por cualquiera de nuestros canales digitales. Para mayor información comunícate al {0}",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501848",
+        "messagebody":"Se ha desbloqueado con éxito la funcionalidad de transferencias a terceros asociados a la {0}, N.º {1}. Se ha enviado un comprobante al correo {2}",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501849",
+        "messagebody":"Estimado Cliente Actualmente no tienes bloqueos vigentes para transferencias a terceros asociados a tu(s) cuenta(s)",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501769",
+        "messagebody":"Ingresa un monto entre {0} y {1}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501770",
+        "messagebody":"Debes ingresar un monto entre {0} y {1}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501771",
+        "messagebody":"Ingresa un número entre {0} y {1}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501772",
+        "messagebody":"Debes ingresar un número entre {0} y {1}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501773",
+        "messagebody":"Puedes elegir 1 o 2 meses al año en los que no se te cobre la cuota. Si eliges el mes de la fecha del primer pago, este mes empezará a contar desde el siguiente año.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501774",
+        "messagebody":"Es un valor que te ayuda a comparar y elegir el crédito más conveniente. Al comparar dos créditos del mismo tipo y con el mismo plazo, el que tenga la CAE más baja será el más barato.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501775",
+        "messagebody":"El Costo Total del Crédito indica el dinero que pagarás por tu crédito, tomando en consideración todos los cobros y gastos asociados.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501776",
+        "messagebody":"La tasa normal es del {0} mensual y {1} anual",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501777",
+        "messagebody":"Para tu tranquilidad y la de tu familia, el Seguro de &#8232;Desgravamen es obligatorio para créditos mayores a 48 cuotas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501778",
+        "messagebody":"Ingresa un nombre",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501779",
+        "messagebody":"Debes ingresar un nombre",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501780",
+        "messagebody":"Ingresa el apellido paterno",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501781",
+        "messagebody":"Debes ingresar el apellido paterno",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501782",
+        "messagebody":"Ingresa el apellido materno",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501783",
+        "messagebody":"Debes ingresar el apellido materno",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501784",
+        "messagebody":"Ingresa un RUT",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501785",
+        "messagebody":"El RUT ingresado no es valido",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501786",
+        "messagebody":"Debes ingresar un RUT",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501787",
+        "messagebody":"Debes ingresar un parentesco",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501788",
+        "messagebody":"¡Ups! Tuvimos un problema. Por favor, intenta nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501789",
+        "messagebody":"Lo sentimos, en este momento no es posible realizar esta operación. Por favor, intenta más tarde.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501791",
+        "messagebody":"Puedes elegir 1 o 2 meses al año en los que no se te cobre la cuota. Si eliges el mes de la fecha del primer pago, este mes empezará a contar desde el siguiente año.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501792",
+        "messagebody":"El beneficio aplicará en {0} del proximo año, pues coincide con el mes de tu primer pago.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501793",
+        "messagebody":"Para acceder a Meses de No Pago, selecciona tu fecha de primer pago entre los días 01 y 26 del mes.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501794",
+        "messagebody":"¡Ups! Tuvimos un problema al simular. Por Favor, intenta nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501795",
+        "messagebody":"El seguro de Desgravamen es obligatorio si el monto supera las 500 UF y/o se solicita con un número mayor a 48 cuotas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501796",
+        "messagebody":"Para un Crédito mayor a tu monto preaprobado, tu solicitud será evaluada por un ejecutivo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501797",
+        "messagebody":"Para un Crédito mayor a 3.000 UF, tu solicitud será evaluada por un ejecutivo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501798",
+        "messagebody":"Recuerda que puedes cambiar y actualizar tus datos de contacto ingresando a Mi Perfil.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501799",
+        "messagebody":"¡Ups! No pudimos enviar la solicitud, por favor intenta nuevamente.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501800",
+        "messagebody":"Tu solicitud de Crédito de Consumo fue enviada exitosamente. Te contactaremos en un plazo de hasta 72 horas para asesorarte y cursar tu solicitud.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501801",
+        "messagebody":"Haz completado el 100% entre todos tus Beneficiarios.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501802",
+        "messagebody":"Felicidades, haz contratado tu Crédito exitosamente. Depositaremos el dinero en tu cuenta.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501803",
+        "messagebody":"Haz asignado un {0}. Debes reasignar el porcentaje total entre tus beneficiarios para completar el 100%.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501804",
+        "messagebody":"Haz asignado un {0}. Debes reasignar el porcentaje total entre tus beneficiarios para completar el 100%. Puedes agregar hasta 6 Beneficiarios en total.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501805",
+        "messagebody":"Haz superado el 100% en la asignación del seguro. Por favor reasigna un nuevo monto a tus beneficiarios para completar el 100%.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501806",
+        "messagebody":"Debido a la cercanía con la fecha de tu primer pago, es necesario actualizarla para continuar con la contratación de tu Crédito.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501807",
+        "messagebody":"La fecha de tu primer pago fue actualizada.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501808",
+        "messagebody":"Debido a la cercanía con la fecha de primer pago, es necesario actualizarla para continuar con la contratación de tu Crédito.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501809",
+        "messagebody":"Estimado cliente, esta solicitud fue rechazada. Puedes contactar a tu ejecutivo para mayor información.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501810",
+        "messagebody":"Estimado cliente, tu solicitud se encuentra en evaluación y serás contactado por tu ejecutivo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501811",
+        "messagebody":"Ingresar el parentesco.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501812",
+        "messagebody":"Estimado cliente, actualmente no tienes solicitudes para revisar, pero puedes simular y solicitar un crédito ahora mismo.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501813",
+        "messagebody":"La fecha de tu primer pago fue actualizada.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501814",
+        "messagebody":"Actualmente no cuentas con un dispositivo de seguridad configurado. Por favor acércate al mesón de Servicio al Cliente en cualquiera de nuestras sucursales.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501835",
+        "messagebody":"En este momento no podemos atender tu solicitud. Por favor, intente nuevamente. Si el problema persiste, llame al 600 637 3737 En este momento no podemos atender tu solicitud. Por favor, intent{0} nuevamente. Si el problema persiste, llam{0} al {1}",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501877",
+        "messagebody":"Antes de reintentar, por favor revisa tu saldo disponible",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501865",
+        "messagebody":"Para modificar el número de tu celular de seguridad, puedes llamar a Fonobank Empresas {0}, contactar a tu Ejecutivo(a) o acudir al mesón de atención a clientes en cualquiera de nuestras sucursales.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501866",
+        "messagebody":"Ingresa número válido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501867",
+        "messagebody":"No tenemos registrado tu número de Celular de Seguridad. Por que nos preocupamos de tu seguridad, solo podrás registrar tu celular por única vez en Banconexión 2.0. Este número será actualizado al día hábil siguiente y quedará asociado a tu rut, por lo que podrás utilizarlo de forma transversal en todos los canales digitales a los que tengas acceso (Empresas o Personas) para autorizar operaciones con clave dinámica o activación de las aplicaciones móviles. No olvides verificar el email que tienes inscrito (Perfil, Datos Personales), pues a esta casilla te llegará el comprobante.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501868",
+        "messagebody":"Ingresa número de serie/documento de tu cédula válido.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501869",
+        "messagebody":"No pudimos validar tus datos. Verifica que el número de serie/documento sea el correcto y tu cédula se encuentre vigente, no vencida o bloqueada. Al tercer intento se bloqueará por 72 horas.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501870",
+        "messagebody":"Atención. Has agotado el número de intentos de validación de datos. Vuelve a intentarlo en 72 horas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501871",
+        "messagebody":"El servicio presenta intermitencias. Por favor intenta nuevamente. Si el problema persiste, llama al {0}.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501872",
+        "messagebody":"Tu número de celular de seguridad ha sido registrado correctamente. Este será actualizado al día hábil siguiente. Hemos enviado una notificación con el respaldo de esta operación a tu mail registrado en el Banco.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501873",
+        "messagebody":"El servicio presenta intermitencias. Por favor, intenta nuevamente. Si el problema persiste, llama al {0}.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501874",
+        "messagebody":"Actualmente no tienes un número de celular de seguridad registrado en el Banco. Para inscribirlo, puedes llamar al Fonobank Empresas {0}, contactar a tu Ejecutivo(a) o acudir al mesón de atención a clientes en cualquiera de nuestras sucursales.",
+        "severity":"warning"   
+    }
+    ,
+    {
+        "messageid":"501875",
+        "messagebody":"Hemos validado tu identidad correctamente. Presiona continuar para seguir con el último paso.",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501876",
+        "messagebody":"Atención. Al menos una de las respuestas ingresadas no es correcta. Intenta nuevamente. Recuerda que al tercer intento se bloqueará por 72 horas.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501880",
+        "messagebody":"Para poder continuar con la solicitud de tu Crédito, {0}debes tener una Cuenta vigente{1}. Dirígete a nuestra Banca Telefónica Personas o a una sucursal para que podamos ayudarte.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501881",
+        "messagebody":"Para poder continuar con la solicitud de tu Crédito, {0}debes contar con un teléfono de contacto{1}. Acá te indicamos cómo hacerlo:",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501882",
+        "messagebody":"Para poder continuar con la solicitud de tu Crédito, {0}debes contar con un correo electrónico de contacto{1}. Acá te indicamos cómo hacerlo:",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501883",
+        "messagebody":"Para poder continuar con la solicitud de tu Crédito, {0}debes tener un Dispositivo de Seguridad activado{1}. Dirígete a una sucursal para que podamos ayudarte.",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501884",
+        "messagebody":"Para poder continuar con la solicitud de tu Crédito, {0}debes contar con la siguiente información{1}:",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"503587",
+        "messagebody":"Error no se pueden cargar los rubros",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"503588",
+        "messagebody":"Error no se pueden cargar los comercios",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"503593",
+        "messagebody":"Error archivo adjunto (extension)",
+        "severity":"error"   
+    }
+    ,
+    {
+        "messageid":"501891",
+        "messagebody":"Puede seleccionar un máximo de {0} cartolas para descargar",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501892",
+        "messagebody":"La descarga de cartolas se realizó de manera parcial, reintente para completar las descargas",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501893",
+        "messagebody":"Las cartolas seleccionadas ya fueron descargadas",
+        "severity":"info"   
+    }
+    ,
+    {
+        "messageid":"501894",
+        "messagebody":"Puede seleccionar un máximo de {0} cuentas",
+        "severity":"info"   
+    }
+    
+    ]
+}
